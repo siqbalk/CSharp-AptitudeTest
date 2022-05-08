@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a778c01f-265b-46ee-b9c7-556210a62672": {
+      "ProjectGuid": "a778c01f-265b-46ee-b9c7-556210a62672",
+      "DisplayName": "AptitudeTestMain",
+      "ColorIndex": 0
+    },
+    "2ce074d9-ed3a-4705-897f-f010747887d7": {
+      "ProjectGuid": "2ce074d9-ed3a-4705-897f-f010747887d7",
+      "DisplayName": "MainHandler",
+      "ColorIndex": 1
+    },
+    "015c5786-8b4f-4ebd-bf65-b12ee81e9c65": {
+      "ProjectGuid": "015c5786-8b4f-4ebd-bf65-b12ee81e9c65",
+      "DisplayName": "Models",
+      "ColorIndex": 2
+    },
+    "af51ddf4-4d69-492f-a14f-42d75db71be1": {
+      "ProjectGuid": "af51ddf4-4d69-492f-a14f-42d75db71be1",
+      "DisplayName": "AptitudeTestHandler",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

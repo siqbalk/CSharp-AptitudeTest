@@ -1,0 +1,13 @@
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\bin\Debug\netcoreapp3.1\AptitudeTestHandler.deps.json
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\bin\Debug\netcoreapp3.1\AptitudeTestHandler.dll
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\bin\Debug\netcoreapp3.1\AptitudeTestHandler.pdb
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\obj\Debug\netcoreapp3.1\AptitudeTestHandler.csproj.AssemblyReference.cache
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\obj\Debug\netcoreapp3.1\AptitudeTestHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\obj\Debug\netcoreapp3.1\AptitudeTestHandler.AssemblyInfoInputs.cache
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\obj\Debug\netcoreapp3.1\AptitudeTestHandler.AssemblyInfo.cs
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\obj\Debug\netcoreapp3.1\AptitudeTestHandler.csproj.CoreCompileInputs.cache
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\obj\Debug\netcoreapp3.1\AptitudeTestHandler.csproj.CopyComplete
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\obj\Debug\netcoreapp3.1\AptitudeTestHandler.dll
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\obj\Debug\netcoreapp3.1\AptitudeTestHandler.pdb

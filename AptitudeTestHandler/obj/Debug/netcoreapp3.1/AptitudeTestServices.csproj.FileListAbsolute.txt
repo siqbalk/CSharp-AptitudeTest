@@ -1,0 +1,10 @@
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\bin\Debug\netcoreapp3.1\AptitudeTestServices.deps.json
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\bin\Debug\netcoreapp3.1\AptitudeTestServices.dll
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\bin\Debug\netcoreapp3.1\AptitudeTestServices.pdb
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\obj\Debug\netcoreapp3.1\AptitudeTestServices.csproj.AssemblyReference.cache
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\obj\Debug\netcoreapp3.1\AptitudeTestServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\obj\Debug\netcoreapp3.1\AptitudeTestServices.AssemblyInfoInputs.cache
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\obj\Debug\netcoreapp3.1\AptitudeTestServices.AssemblyInfo.cs
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\obj\Debug\netcoreapp3.1\AptitudeTestServices.csproj.CoreCompileInputs.cache
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\obj\Debug\netcoreapp3.1\AptitudeTestServices.dll
+C:\Users\SyedIqbal\Documents\AptitudeTest\AptitudeTestServices\obj\Debug\netcoreapp3.1\AptitudeTestServices.pdb
